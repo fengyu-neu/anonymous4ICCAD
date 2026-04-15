@@ -24,5 +24,3 @@ We provide a script for generating synthetic training layouts at the 7nm node th
 python layout_generator.py
 ```
 
-The generated layouts can be used to train machine learning models for DSA-MP layout decomposition without relying on proprietary design data.
-
